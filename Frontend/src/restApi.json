@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1 (2).jpeg",
+                "title": "VEG THALI",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.jpeg",
+                "title": "BUTTER PANEER",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast.jpeg",
+                "title": "IDLI SAMBER",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.jpeg",
+                "title": "VEG BIRYANI",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch.jpeg",
+                "title": "VEG MEAL COMBO",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.jpeg",
+                "title": "PULAO",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.jpeg",
+                "title": "DAL TADKA",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.jpeg",
+                "title": "CHICKEN BIRYANI",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./chef1.jpeg",
+                "name": "Mr. Goswami",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./chef3.jpeg",
+                "name": "BILL",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./chef4.jpeg",
+                "name": "KANYE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./chef2 (2).jpeg",
+                "name": "SAM",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
